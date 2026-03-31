@@ -11,7 +11,9 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 11px;
+  height: 80px;
+  background-color: white;
   /* padding: 24px 16px; */
   color: #ffffff;
   box-shadow:
@@ -24,9 +26,9 @@ header > img {
   height: 52px;
 }
 
-header > p {
+header > h1 {
   font-weight: 400;
-  font-size: 32px;
+  font-size: 2rem;
   line-height: 60px;
   letter-spacing: -5%;
   color: #141413;
