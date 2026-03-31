@@ -5,7 +5,7 @@ export default function Header() {
     <>
       <header className="header">
         <img src={logo} alt="Chef-Claude-Icon" />
-        <p>Chef Claude</p>
+        <h1>Chef Claude</h1>
       </header>
     </>
   );
